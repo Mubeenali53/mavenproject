@@ -11,4 +11,3 @@ public class App
         System.out.println( "Hello World! from CI CD task package hi from demo by jenkins" );
     }
 
-}
